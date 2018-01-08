@@ -4,5 +4,11 @@ fsdfsffdsfs
 fsdfsfdsadasd
 
 fsdfsffdsf
+<<<<<<< HEAD
 
 Hi
+=======
+>>>>>>> Sprite comm2
+
+HELLO
+>>>>>>> Fanta branch

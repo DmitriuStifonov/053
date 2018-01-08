@@ -9,6 +9,10 @@ fsdfsffdsf
 Hi
 =======
 >>>>>>> Sprite comm2
+<<<<<<< HEAD
 
 HELLO
 >>>>>>> Fanta branch
+=======
+World
+>>>>>>> Sprite branch

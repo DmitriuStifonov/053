@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 fsdfsffdsfs
 =======
 fsdfsfdsadasd
 >>>>>>> Fanta comm2
+=======
+fsdfsffdsf
+>>>>>>> Sprite comm2
